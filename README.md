@@ -1,2 +1,2 @@
-# drp-calc
-DRP calculator for osu!droid relax
+# osudroid!relax DRP System
+there's nothing i can put here
